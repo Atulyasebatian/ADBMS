@@ -28,3 +28,4 @@ mysql> select * from no_sale;
 +-----+-------+-------+
 2 rows in set (0.00 sec)
 
+//VERIFIED
