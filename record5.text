@@ -63,4 +63,4 @@ ANS) select name from Customer where id in(select cus_id from Invoice_master whe
 | athu  |
 +-------+
 2 rows in set (0.00 sec)
-
+//VERIFIED
