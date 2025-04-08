@@ -22,3 +22,4 @@ mysql> SELECT name, price, minmax(price) AS PRICE_RANGE  FROM products;
 | pen    |    15 | medium      |
 +--------+-------+-------------+
 
+//VERIFIED
