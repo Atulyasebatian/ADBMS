@@ -40,3 +40,4 @@ Invoice> db.Customer.find({city:{$nin:["Ekm","Tvm"]}})
 ]
 
 
+//VERIFIED
