@@ -45,3 +45,4 @@ Invoice> db.Customer.update({ cust_id: "1001" }, { $set: { city: "Calicut" } })
 4.      Write a MongoDB query to delete the first matched document whose city is “Calicut”.
 Invoice> db.Customer.deleteOne({city:"Calicut"})
 { acknowledged: true, deletedCount: 1 }
+//VERIFIED
